@@ -1,0 +1,11 @@
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\bin\Debug\Laboratorio#3 - MDI.exe.config
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\bin\Debug\Laboratorio#3 - MDI.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\bin\Debug\Laboratorio#3 - MDI.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\obj\Debug\Laboratorio#3 - MDI.csproj.AssemblyReference.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\obj\Debug\Laboratorio_3___MDI.Form1.resources
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\obj\Debug\Laboratorio_3___MDI.Form2.resources
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\obj\Debug\Laboratorio_3___MDI.Properties.Resources.resources
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\obj\Debug\Laboratorio#3 - MDI.csproj.GenerateResource.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\obj\Debug\Laboratorio#3 - MDI.csproj.CoreCompileInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\obj\Debug\Laboratorio#3 - MDI.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - MDI\Laboratorio#3 - MDI\obj\Debug\Laboratorio#3 - MDI.pdb
