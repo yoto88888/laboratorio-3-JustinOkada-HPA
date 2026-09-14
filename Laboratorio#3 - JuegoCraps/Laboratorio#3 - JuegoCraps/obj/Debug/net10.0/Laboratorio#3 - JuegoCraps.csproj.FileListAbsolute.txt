@@ -1,0 +1,15 @@
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\bin\Debug\net10.0\Laboratorio#3 - JuegoCraps.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\bin\Debug\net10.0\Laboratorio#3 - JuegoCraps.deps.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\bin\Debug\net10.0\Laboratorio#3 - JuegoCraps.runtimeconfig.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\bin\Debug\net10.0\Laboratorio#3 - JuegoCraps.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\bin\Debug\net10.0\Laboratorio#3 - JuegoCraps.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\obj\Debug\net10.0\Laboratorio#3 - JuegoCraps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\obj\Debug\net10.0\Laboratorio#3 - JuegoCraps.AssemblyInfoInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\obj\Debug\net10.0\Laboratorio#3 - JuegoCraps.AssemblyInfo.cs
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\obj\Debug\net10.0\Laboratorio#3 - JuegoCraps.csproj.CoreCompileInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\obj\Debug\net10.0\Laboratorio#3 - JuegoCraps.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\obj\Debug\net10.0\refint\Laboratorio#3 - JuegoCraps.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\obj\Debug\net10.0\Laboratorio#3 - JuegoCraps.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\obj\Debug\net10.0\Laboratorio#3 - JuegoCraps.genruntimeconfig.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\obj\Debug\net10.0\ref\Laboratorio#3 - JuegoCraps.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Laboratorio#3 - JuegoCraps\Laboratorio#3 - JuegoCraps\obj\Debug\net10.0\Laborato.5D5E07A7.Up2Date
