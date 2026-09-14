@@ -1,0 +1,10 @@
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\PracticaGrid\PracticaGrid\bin\Debug\PracticaGrid.exe.config
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\PracticaGrid\PracticaGrid\bin\Debug\PracticaGrid.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\PracticaGrid\PracticaGrid\bin\Debug\PracticaGrid.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\PracticaGrid\PracticaGrid\obj\Debug\PracticaGrid.csproj.AssemblyReference.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\PracticaGrid\PracticaGrid\obj\Debug\PracticaGrid.Form1.resources
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\PracticaGrid\PracticaGrid\obj\Debug\PracticaGrid.Properties.Resources.resources
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\PracticaGrid\PracticaGrid\obj\Debug\PracticaGrid.csproj.GenerateResource.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\PracticaGrid\PracticaGrid\obj\Debug\PracticaGrid.csproj.CoreCompileInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\PracticaGrid\PracticaGrid\obj\Debug\PracticaGrid.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\PracticaGrid\PracticaGrid\obj\Debug\PracticaGrid.pdb
