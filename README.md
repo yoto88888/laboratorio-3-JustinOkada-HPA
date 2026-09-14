@@ -14,8 +14,10 @@ Este repositorio contiene la resolución de los problemas prácticos asignados e
 ## Capturas de Pantalla
 * Ejercicio 1
 <img width="789" height="608" alt="Screenshot 2026-09-13 224950" src="https://github.com/user-attachments/assets/0083a6c4-3034-48f3-b0c2-7deb818e2721" />
+
 * Ejercicio 2
   <img width="1111" height="402" alt="Screenshot 2026-09-13 225317" src="https://github.com/user-attachments/assets/2c70f7f3-6654-459c-9111-e0fe154f0aea" />
+
 * Ejercicio 3
   <img width="1132" height="758" alt="Screenshot 2026-09-13 225651" src="https://github.com/user-attachments/assets/0092dd55-970c-42e2-90fc-20aba24f7b06" />
 
